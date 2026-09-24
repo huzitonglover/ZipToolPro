@@ -40,6 +40,12 @@ git submodule update --init --recursive
 
 Issues and pull requests are welcome. For bugs, please include your macOS version, your ZipToolPro version, and a sample archive if possible.
 
+## Sponsor
+
+If ZipToolPro is useful to you, you can support its development by scanning the QR code below with Alipay. Thank you!
+
+<p align="center"><img src="assets/sponsor/alipay.jpg" alt="Alipay" width="240"></p>
+
 ## License
 
 Copyright © 2026 huzitonglover

@@ -40,6 +40,12 @@ git submodule update --init --recursive
 
 Issue やプルリクエストを歓迎します。不具合を報告する際は、macOS のバージョン、ZipToolPro のバージョン、可能であれば再現用のアーカイブを添えてください。
 
+## スポンサー
+
+ZipToolPro が役に立ったら、下の QR コードを Alipay（支付宝）でスキャンして開発を支援していただけると嬉しいです。ありがとうございます！
+
+<p align="center"><img src="assets/sponsor/alipay.jpg" alt="Alipay" width="240"></p>
+
 ## ライセンス
 
 Copyright © 2026 huzitonglover
