@@ -14,7 +14,6 @@
 		2567C8312E8FB75F008E1BD8 /* Quartz.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2567C8302E8FB75F008E1BD8 /* Quartz.framework */; };
 		2567C83D2E8FB75F008E1BD8 /* QuickLookExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 2567C82F2E8FB75F008E1BD8 /* QuickLookExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		25C764252E6C6D5300464CF5 /* XADMasterSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 25C764242E6C6D5300464CF5 /* XADMasterSwift */; };
-		25D7B4F12FBFB84700021B10 /* Changelog.json in Resources */ = {isa = PBXBuildFile; fileRef = 25D7B4F02FBFB82E00021B10 /* Changelog.json */; };
 		25E426CA2E6BEB3800F10BE5 /* XADMasterSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 25E426C92E6BEB3800F10BE5 /* XADMasterSwift */; };
 /* End PBXBuildFile section */
 
@@ -47,7 +46,6 @@
 		2567C82F2E8FB75F008E1BD8 /* QuickLookExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = QuickLookExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		2567C8302E8FB75F008E1BD8 /* Quartz.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Quartz.framework; path = System/Library/Frameworks/Quartz.framework; sourceTree = SDKROOT; };
 		25C0A8A42A78DE5F002C1C2A /* ZipToolPro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZipToolPro.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		25D7B4F02FBFB82E00021B10 /* Changelog.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Changelog.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -100,7 +98,6 @@
 		25AA00022F0000000000CC02 /* Config */ = {
 			isa = PBXGroup;
 			children = (
-				25D7B4F02FBFB82E00021B10 /* Changelog.json */,
 			);
 			path = Config;
 			sourceTree = "<group>";
@@ -253,7 +250,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				25D7B4F12FBFB84700021B10 /* Changelog.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -312,7 +308,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = QuickLookExtension/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "ZipToolPro Preview";
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "Copyright © 2026 huzitonglover. Licensed under GPL-3.0.";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -363,7 +359,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = QuickLookExtension/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "ZipToolPro Preview";
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "Copyright © 2026 huzitonglover. Licensed under GPL-3.0.";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -537,7 +533,7 @@
 				INFOPLIST_FILE = ZipToolPro/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = ZipToolPro;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "Copyright © 2026 huzitonglover. Licensed under GPL-3.0.";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -588,7 +584,7 @@
 				INFOPLIST_FILE = ZipToolPro/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = ZipToolPro;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "Copyright © 2026 huzitonglover. Licensed under GPL-3.0.";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",

@@ -151,3 +151,6 @@ a/
 AppStoreScreenshots/
 ArchiveTool_ASO_Multilingual.txt
 .codexignore
+
+# Design source files
+*.ai
