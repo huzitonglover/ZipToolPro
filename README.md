@@ -1,6 +1,6 @@
 # ZipToolPro
 
-**English** | [简体中文](README.zh-CN.md)
+**English** | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Italiano](README.it.md) | [Português (Brasil)](README.pt-BR.md) | [Русский](README.ru.md) | [Українська](README.uk.md) | [Polski](README.pl.md) | [فارسی](README.fa.md)
 
 ZipToolPro is a fast, native archive manager for macOS. You can browse archives without extracting them, open nested archives in place, extract only the files you need, and create compressed archives with optional passwords.
 
@@ -49,4 +49,4 @@ ZipToolPro is free software, released under the [GNU General Public License v3.0
 ## Acknowledgements
 
 - Originally derived from [MacPacker](https://github.com/sarensw/MacPacker) by sarensw (GPL-3.0)
-- Archive support is powered by [7-Zip](https://github.com/ip7z/7zip), [XADMaster](https://github.com/sarensw/XADMasterSwift), and [SWCompression](https://github.com/tsolomko/SWCompression)
+- Archive support is powered by [7-Zip](https://github.com/ip7z/7zip), [XADMaster](https://github.com/sarensw/XADMasterSwift), [SWCompression](https://github.com/tsolomko/SWCompression)

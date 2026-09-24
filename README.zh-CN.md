@@ -1,6 +1,6 @@
 # ZipToolPro
 
-[English](README.md) | **简体中文**
+[English](README.md) | **简体中文** | [日本語](README.ja.md) | [한국어](README.ko.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Italiano](README.it.md) | [Português (Brasil)](README.pt-BR.md) | [Русский](README.ru.md) | [Українська](README.uk.md) | [Polski](README.pl.md) | [فارسی](README.fa.md)
 
 ZipToolPro 是一款快速、原生的 macOS 压缩包管理工具：无需解压即可浏览压缩包内容，可以直接打开嵌套的压缩包，只提取需要的文件，还能创建带密码的压缩包。
 
@@ -49,4 +49,4 @@ ZipToolPro 是自由软件，基于 [GNU 通用公共许可证 v3.0（GPL-3.0）
 ## 致谢
 
 - 最初源自 sarensw 的 [MacPacker](https://github.com/sarensw/MacPacker)（GPL-3.0）
-- 压缩格式支持来自 [7-Zip](https://github.com/ip7z/7zip)、[XADMaster](https://github.com/sarensw/XADMasterSwift) 和 [SWCompression](https://github.com/tsolomko/SWCompression)
+- 压缩格式支持来自 [7-Zip](https://github.com/ip7z/7zip), [XADMaster](https://github.com/sarensw/XADMasterSwift), [SWCompression](https://github.com/tsolomko/SWCompression)
