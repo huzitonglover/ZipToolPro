@@ -1,10 +1,25 @@
 # ZipToolPro
 
-[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Italiano](README.it.md) | [Português (Brasil)](README.pt-BR.md) | [Русский](README.ru.md) | [Українська](README.uk.md) | [Polski](README.pl.md) | **فارسی**
+[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Italiano](README.it.md) | [Português (Brasil)](README.pt-BR.md) | [Русский](README.ru.md) | [Українська](README.uk.md) | [Polski](README.pl.md) | <b>فارسی</b>
 
 <div dir="rtl">
 
 ZipToolPro یک ابزار مدیریت بایگانی سریع و بومی برای macOS است. بدون استخراج، محتوای بایگانی‌ها را مرور کنید، بایگانی‌های تودرتو را مستقیماً باز کنید، فقط فایل‌های مورد نیاز را استخراج کنید و بایگانی‌های فشرده، در صورت تمایل با گذرواژه، بسازید.
+
+<p align="center">
+  <a href="https://apps.apple.com/us/app/id6778828246"><img src="assets/mas.svg" alt="Mac App Store" height="48"></a>
+</p>
+
+<p align="center">دانلود رایگان <b>Archive Tool Pro</b> از Mac App Store</p>
+
+## تصاویر
+
+<p align="center">
+  <img src="assets/screenshots/fa/01.jpg" alt="Screenshot 1" width="100%">
+</p>
+<p align="center">
+  <img src="assets/screenshots/fa/02.jpg" alt="Screenshot 2" width="100%">
+</p>
 
 ## ویژگی‌ها
 

@@ -1,8 +1,23 @@
 # ZipToolPro
 
-[English](README.md) | [简体中文](README.zh-CN.md) | **日本語** | [한국어](README.ko.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Italiano](README.it.md) | [Português (Brasil)](README.pt-BR.md) | [Русский](README.ru.md) | [Українська](README.uk.md) | [Polski](README.pl.md) | [فارسی](README.fa.md)
+[English](README.md) | [简体中文](README.zh-CN.md) | <b>日本語</b> | [한국어](README.ko.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Italiano](README.it.md) | [Português (Brasil)](README.pt-BR.md) | [Русский](README.ru.md) | [Українська](README.uk.md) | [Polski](README.pl.md) | [فارسی](README.fa.md)
 
 ZipToolPro は、高速でネイティブな macOS 用アーカイブマネージャーです。解凍せずにアーカイブの中身を閲覧でき、入れ子になったアーカイブもそのまま開けます。必要なファイルだけを取り出したり、パスワード付きのアーカイブを作成したりすることもできます。
+
+<p align="center">
+  <a href="https://apps.apple.com/jp/app/id6778828246"><img src="assets/mas.svg" alt="Mac App Store" height="48"></a>
+</p>
+
+<p align="center">Mac App Store で「<b>解凍ツール</b>」を無料でダウンロード</p>
+
+## スクリーンショット
+
+<p align="center">
+  <img src="assets/screenshots/ja/01.jpg" alt="Screenshot 1" width="100%">
+</p>
+<p align="center">
+  <img src="assets/screenshots/ja/02.jpg" alt="Screenshot 2" width="100%">
+</p>
 
 ## 主な機能
 

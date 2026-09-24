@@ -1,8 +1,23 @@
 # ZipToolPro
 
-[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Italiano](README.it.md) | [Português (Brasil)](README.pt-BR.md) | [Русский](README.ru.md) | [Українська](README.uk.md) | **Polski** | [فارسی](README.fa.md)
+[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Italiano](README.it.md) | [Português (Brasil)](README.pt-BR.md) | [Русский](README.ru.md) | [Українська](README.uk.md) | <b>Polski</b> | [فارسی](README.fa.md)
 
 ZipToolPro to szybki, natywny menedżer archiwów dla macOS. Przeglądaj archiwa bez rozpakowywania, otwieraj zagnieżdżone archiwa bezpośrednio, wypakowuj tylko potrzebne pliki i twórz skompresowane archiwa, opcjonalnie zabezpieczone hasłem.
+
+<p align="center">
+  <a href="https://apps.apple.com/pl/app/id6778828246"><img src="assets/mas.svg" alt="Mac App Store" height="48"></a>
+</p>
+
+<p align="center">Za darmo w Mac App Store jako <b>Archive Tool Pro</b></p>
+
+## Zrzuty ekranu
+
+<p align="center">
+  <img src="assets/screenshots/pl/01.jpg" alt="Screenshot 1" width="100%">
+</p>
+<p align="center">
+  <img src="assets/screenshots/pl/02.jpg" alt="Screenshot 2" width="100%">
+</p>
 
 ## Funkcje
 

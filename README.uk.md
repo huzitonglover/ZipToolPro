@@ -1,8 +1,23 @@
 # ZipToolPro
 
-[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Italiano](README.it.md) | [Português (Brasil)](README.pt-BR.md) | [Русский](README.ru.md) | **Українська** | [Polski](README.pl.md) | [فارسی](README.fa.md)
+[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Italiano](README.it.md) | [Português (Brasil)](README.pt-BR.md) | [Русский](README.ru.md) | <b>Українська</b> | [Polski](README.pl.md) | [فارسی](README.fa.md)
 
 ZipToolPro — швидкий нативний архіватор для macOS. Переглядайте архіви без розпакування, відкривайте вкладені архіви напряму, видобувайте лише потрібні файли та створюйте стиснені архіви, за бажанням захищені паролем.
+
+<p align="center">
+  <a href="https://apps.apple.com/ua/app/id6778828246"><img src="assets/mas.svg" alt="Mac App Store" height="48"></a>
+</p>
+
+<p align="center">Безкоштовно в Mac App Store під назвою <b>Archive Tool Pro</b></p>
+
+## Знімки екрана
+
+<p align="center">
+  <img src="assets/screenshots/uk/01.jpg" alt="Screenshot 1" width="100%">
+</p>
+<p align="center">
+  <img src="assets/screenshots/uk/02.jpg" alt="Screenshot 2" width="100%">
+</p>
 
 ## Можливості
 

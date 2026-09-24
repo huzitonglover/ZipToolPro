@@ -1,8 +1,23 @@
 # ZipToolPro
 
-[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | **한국어** | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Italiano](README.it.md) | [Português (Brasil)](README.pt-BR.md) | [Русский](README.ru.md) | [Українська](README.uk.md) | [Polski](README.pl.md) | [فارسی](README.fa.md)
+[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | <b>한국어</b> | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Italiano](README.it.md) | [Português (Brasil)](README.pt-BR.md) | [Русский](README.ru.md) | [Українська](README.uk.md) | [Polski](README.pl.md) | [فارسی](README.fa.md)
 
 ZipToolPro는 빠르고 네이티브한 macOS용 압축 파일 관리 앱입니다. 압축을 풀지 않고도 내용을 둘러볼 수 있고, 중첩된 압축 파일도 바로 열 수 있습니다. 필요한 파일만 골라 압축 해제하거나, 비밀번호가 걸린 압축 파일을 만들 수도 있습니다.
+
+<p align="center">
+  <a href="https://apps.apple.com/kr/app/id6778828246"><img src="assets/mas.svg" alt="Mac App Store" height="48"></a>
+</p>
+
+<p align="center">Mac App Store에서 <b>압축 해제 도구</b>을(를) 무료로 다운로드하세요</p>
+
+## 스크린샷
+
+<p align="center">
+  <img src="assets/screenshots/ko/01.jpg" alt="Screenshot 1" width="100%">
+</p>
+<p align="center">
+  <img src="assets/screenshots/ko/02.jpg" alt="Screenshot 2" width="100%">
+</p>
 
 ## 주요 기능
 

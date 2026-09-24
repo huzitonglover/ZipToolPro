@@ -1,8 +1,23 @@
 # ZipToolPro
 
-[English](README.md) | **简体中文** | [日本語](README.ja.md) | [한국어](README.ko.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Italiano](README.it.md) | [Português (Brasil)](README.pt-BR.md) | [Русский](README.ru.md) | [Українська](README.uk.md) | [Polski](README.pl.md) | [فارسی](README.fa.md)
+[English](README.md) | <b>简体中文</b> | [日本語](README.ja.md) | [한국어](README.ko.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Italiano](README.it.md) | [Português (Brasil)](README.pt-BR.md) | [Русский](README.ru.md) | [Українська](README.uk.md) | [Polski](README.pl.md) | [فارسی](README.fa.md)
 
 ZipToolPro 是一款快速、原生的 macOS 压缩包管理工具：无需解压即可浏览压缩包内容，可以直接打开嵌套的压缩包，只提取需要的文件，还能创建带密码的压缩包。
+
+<p align="center">
+  <a href="https://apps.apple.com/cn/app/id6778828246"><img src="assets/mas.svg" alt="Mac App Store" height="48"></a>
+</p>
+
+<p align="center">在 Mac App Store 免费下载「<b>解压文件专业版</b>」</p>
+
+## 截图
+
+<p align="center">
+  <img src="assets/screenshots/zh-CN/01.jpg" alt="Screenshot 1" width="100%">
+</p>
+<p align="center">
+  <img src="assets/screenshots/zh-CN/02.jpg" alt="Screenshot 2" width="100%">
+</p>
 
 ## 功能
 
