@@ -1,0 +1,83 @@
+//
+//  ArchiveEngineSelector.swift
+//  ZipToolPro
+//
+//  Created by 小胖 on 2026/5/20.
+//
+
+import Foundation
+import tb
+
+private let log = tb.Logger(subsystem: "app.ZipToolPro", category: "engine")
+
+public enum ArchiveEngineType: String, Identifiable, Sendable, Codable {
+    case xad = "XAD (The Unarchiver)"
+    case `7zip` = "7-Zip"
+    case swc = "SWCompression"
+    
+    public var id: Self { self }
+}
+
+extension ArchiveEngineType {
+    public init?(configId: String) {
+        switch configId.lowercased() {
+        case "xad":  self = .xad
+        case "7zip": self = .`7zip`
+        case "swc":  self = .swc
+        default:     return nil
+        }
+    }
+
+    /// For writing back OR for documentation
+    var configId: String {
+        switch self {
+        case .xad:  "xad"
+        case .`7zip`: "7zip"
+        case .swc:  "swc"
+        }
+    }
+}
+
+public protocol ArchiveEngineSelectorProtocol: Sendable {
+    func engine(for id: String) -> ArchiveEngine?
+    func engine(for type: ArchiveEngineType) -> ArchiveEngine
+    func engineType(for id: String) -> ArchiveEngineType?
+}
+
+public struct ArchiveEngineSelector: ArchiveEngineSelectorProtocol {
+    private let archiveEngineConfigStore: ArchiveEngineConfigStore
+    
+    public init(catalog: ArchiveTypeCatalog, configStore: ArchiveEngineConfigStore) {
+        archiveEngineConfigStore = configStore
+    }
+    
+    public func engine(for id: String) -> ArchiveEngine? {
+        if let engineId = archiveEngineConfigStore.selectedEngine(for: id) {
+            log.debug("Using engine: \(engineId)")
+            switch engineId {
+            case .`7zip`:   return Archive7ZipEngine()
+            case .swc:      return ArchiveSwcEngine()
+            case .xad:      return ArchiveXadEngine()
+            }
+        }
+        
+        return nil
+    }
+    
+    public func engine(for type: ArchiveEngineType) -> ArchiveEngine {
+        switch type {
+        case .xad:      return ArchiveXadEngine()
+        case .swc:      return ArchiveSwcEngine()
+        case .`7zip`:     return Archive7ZipEngine()
+        }
+    }
+    
+    public func engineType(for id: String) -> ArchiveEngineType? {
+        if let engineId = archiveEngineConfigStore.selectedEngine(for: id) {
+            log.debug("Using engine: \(engineId)")
+            return engineId
+        }
+        
+        return nil
+    }
+}

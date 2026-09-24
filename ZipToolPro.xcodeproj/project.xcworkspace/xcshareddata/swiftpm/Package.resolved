@@ -1,0 +1,42 @@
+{
+  "originHash" : "2077b458451c23841881f0da84cbdaa6190bb577e006881c4b0dcd6d36635133",
+  "pins" : [
+    {
+      "identity" : "bitbytedata",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tsolomko/BitByteData",
+      "state" : {
+        "revision" : "cdcdc5177ad536cfb11b95c620f926a81014b7fe",
+        "version" : "2.0.4"
+      }
+    },
+    {
+      "identity" : "swcompression",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tsolomko/SWCompression.git",
+      "state" : {
+        "revision" : "390e0b0af8dd19a600005a242a89e570ff482e09",
+        "version" : "4.8.6"
+      }
+    },
+    {
+      "identity" : "tailbeatkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tailbeat/tailbeatkit",
+      "state" : {
+        "revision" : "2eb4d2602ed9e40c58b2b6564f4c2806e369b880",
+        "version" : "0.13.0"
+      }
+    },
+    {
+      "identity" : "xadmasterswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sarensw/XADMasterSwift",
+      "state" : {
+        "branch" : "main",
+        "revision" : "d9dce6349d39ca1756db71374709cef457d5583d"
+      }
+    }
+  ],
+  "version" : 3
+}
